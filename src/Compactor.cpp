@@ -205,7 +205,7 @@ bool Compactor::runCompaction() {
       }
     }
 
-    ::fdatasync(tmp_fd);
+    ::fsync(tmp_fd);
     ::close(tmp_fd);
     ::close(src_fd);
 
