@@ -1,1 +1,0 @@
-/usr/bin/clang++ -O3 -march=native -DNDEBUG -Wall -Wextra -Wpedantic -Wno-unused-parameter -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/FlashDB.dir/src/FlashDB.cpp.o CMakeFiles/FlashDB.dir/src/Compactor.cpp.o CMakeFiles/FlashDB.dir/src/Server.cpp.o CMakeFiles/FlashDB.dir/main.cpp.o -o FlashDB

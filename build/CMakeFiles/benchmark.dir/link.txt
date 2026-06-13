@@ -1,1 +1,0 @@
-/usr/bin/clang++ -O3 -march=native -DNDEBUG -Wall -Wextra -Wpedantic -Wno-unused-parameter -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/benchmark.dir/src/FlashDB.cpp.o CMakeFiles/benchmark.dir/src/Compactor.cpp.o CMakeFiles/benchmark.dir/src/Server.cpp.o CMakeFiles/benchmark.dir/benchmarks/stress_test.cpp.o -o benchmark
