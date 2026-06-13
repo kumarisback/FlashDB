@@ -1,0 +1,8 @@
+/Users/arunkumar/Workspace/System Internal/DB/FlashDB/build/CMakeFiles/FlashDB.dir
+/Users/arunkumar/Workspace/System Internal/DB/FlashDB/build/CMakeFiles/benchmark.dir
+/Users/arunkumar/Workspace/System Internal/DB/FlashDB/build/CMakeFiles/edit_cache.dir
+/Users/arunkumar/Workspace/System Internal/DB/FlashDB/build/CMakeFiles/rebuild_cache.dir
+/Users/arunkumar/Workspace/System Internal/DB/FlashDB/build/CMakeFiles/list_install_components.dir
+/Users/arunkumar/Workspace/System Internal/DB/FlashDB/build/CMakeFiles/install.dir
+/Users/arunkumar/Workspace/System Internal/DB/FlashDB/build/CMakeFiles/install/local.dir
+/Users/arunkumar/Workspace/System Internal/DB/FlashDB/build/CMakeFiles/install/strip.dir
